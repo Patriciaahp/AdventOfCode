@@ -19,7 +19,7 @@ let domElem = document.getElementById("rows");
 	let resul = 0;
 	let k = 0;
 	let h = 1;
-	
+
 	while (k < num.length) {
 		let directionChange = 0;
 		let direction = null;
